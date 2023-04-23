@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="username">username</string>
+    <string name="hint_search">Search</string>
+    <string name="desc_search_user">Searching for User</string>
+    <string name="menu_about">About</string>
+    <string name="not_found">We couldn’t find any users matching\n</string>
+    <string name="name">Name Name</string>
+    <string name="number">100</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="no_user_found">No user found</string>
+    <string name="detail">Detail User</string>
+    <string name="about">GitHub User Search with API is a mobile app that allows users to quickly and easily search for and view GitHub user profiles. The app provides comprehensive information on a user\'s public like followers and following.</string>
+    <string name="menu_favorite">favorite</string>
+    <string name="menu_settings">setting</string>
+    <string name="favorite">Favorite User</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="setting">Setting</string>
+</resources>
